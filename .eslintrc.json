@@ -1,0 +1,6 @@
+{
+  "extends": "ponko2",
+  "rules": {
+    "global-require": 0
+  }
+}
