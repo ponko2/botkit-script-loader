@@ -1,5 +1,8 @@
 # botkit-script-loader
 
+[![npm version](https://badge.fury.io/js/%40ponko2%2Fbotkit-script-loader.svg)](https://badge.fury.io/js/%40ponko2%2Fbotkit-script-loader)
+[![Build Status](https://travis-ci.org/ponko2/botkit-script-loader.svg?branch=master)](https://travis-ci.org/ponko2/botkit-script-loader)
+
 # Installation
 
 ```sh
