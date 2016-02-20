@@ -27,6 +27,7 @@
   },
   "scripts": {
     "build": "babel src --out-dir lib --source-maps inline",
+    "lint": "eslint .",
     "prepublish": "npm run --if-present build",
     "watch": "babel src --out-dir lib --watch --source-maps inline"
   }
