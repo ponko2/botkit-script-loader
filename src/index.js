@@ -5,8 +5,8 @@ export default class ScriptLoader {
   /**
    * コンストラクタ
    *
-   * @param {Object} controller - Controller object
-   * @param {Object} bot        - Bot object
+   * @param {object} controller - Controller object
+   * @param {object} bot        - Bot object
    *
    * @returns {void}
    */
