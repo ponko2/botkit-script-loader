@@ -1,7 +1,7 @@
 {
   "name": "@ponko2/botkit-script-loader",
   "description": "Botkit Script Loader",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "Takahito Nakano",
   "devDependencies": {
     "babel-cli": "^6.6.5",
