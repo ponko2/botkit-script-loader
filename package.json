@@ -6,7 +6,7 @@
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-preset-es2015": "^6.6.0",
-    "botkit": "^0.0.14",
+    "botkit": "^0.0.15",
     "eslint": "^2.5.3",
     "eslint-config-ponko2": "^2.3.0"
   },
