@@ -14,17 +14,6 @@ export default class ScriptLoader {
     this.controller = controller;
     this.bot        = bot;
     this.logger     = controller.log;
-
-    // チームIDの保存
-    // Slash Command受付時にteam idが保存されていないとエラーになる
-    // https://github.com/howdyai/botkit/issues/108
-    bot.api.team.info({}, (_, res) => {
-      controller.storage.teams.save({id: res.team.id}, err => {
-        if (err) {
-          this.logger.error(err);
-        }
-      });
-    });
   }
 
   /**
