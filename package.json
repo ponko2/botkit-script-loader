@@ -5,6 +5,7 @@
   "author": "Takahito Nakano",
   "devDependencies": {
     "babel-cli": "^6.9.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
     "babel-preset-es2015": "^6.9.0",
     "botkit": "~0.1.2",
     "eslint": "^2.10.2",
