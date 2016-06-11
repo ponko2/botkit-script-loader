@@ -33,6 +33,7 @@ export default class ScriptLoader {
     }
 
     try {
+      // eslint-disable-next-line global-require
       const script = require(full);
 
       if (typeof script === 'function') {
