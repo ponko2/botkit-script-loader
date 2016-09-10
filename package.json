@@ -9,7 +9,7 @@
     "babel-preset-es2015": "^6.9.0",
     "botkit": "~0.2.2",
     "eslint": "^3.0.0",
-    "eslint-config-ponko2": "^5.0.0"
+    "eslint-config-ponko2": "^6.0.0"
   },
   "files": [
     "lib"
